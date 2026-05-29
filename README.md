@@ -1,16 +1,21 @@
-## Hi there 👋
+## Omar Abidi
 
-<!--
-**omar-abidi-dev/omar-abidi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and Director of [Appspring Studio Ltd](https://appspring.studio) (UK), 
+an independent mobile software company with 80+ published applications across 
+iOS and Android. Currently pursuing Informatics Engineering (AI specialization) 
+at Telkom University, Bandung, Indonesia.
 
-Here are some ideas to get you started:
+My work sits at the intersection of mobile engineering and artificial 
+intelligence — from SwiftUI applications with Claude-powered explanations 
+to AI research proposals in competition settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlights**
+- 🥇 Gold Award — IMPi 2026, UiTM Malaysia (MathSolver Pro)
+- 📱 80+ apps published across App Store & Google Play
+- 🏛️ Copyright registered — Indonesia Ministry of Law (Reg. No. 001247300)
+- 🌍 International competitor — COMAP MCM/ICM, Open Doors Olympiad
+
+**Connect**
+[LinkedIn](https://linkedin.com/in/omar-abidi) · 
+[Instagram](https://instagram.com/omarr.abidi) · 
+[Appspring Studio](https://appspring.studio)
