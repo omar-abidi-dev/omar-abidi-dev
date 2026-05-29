@@ -1,6 +1,6 @@
 ## Omar Abidi
 
-Founder and Director of [Appspring Studio Ltd](https://appspring.studio) (UK), an independent mobile software company with 80+ published applications across iOS and Android. Currently pursuing Informatics (AI specialization) at Telkom University, Indonesia.
+Founder and Director of Appspring Studio Ltd (UK), an independent mobile software company with 80+ published applications across iOS and Android. Currently pursuing Informatics (AI specialization) at Telkom University, Indonesia.
 
 My work sits at the intersection of mobile engineering and artificial intelligence — from SwiftUI applications with Claude-powered explanations to AI research proposals in competition settings.
 
